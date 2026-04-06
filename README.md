@@ -15,13 +15,15 @@ Mi enfoque trasciende la simple escritura de código: busco resolver problemas d
 
 ###  Stack Tecnológico y Herramientas
 
-* **Frontend:** React, TypeScript, Tailwind CSS, Vite.
-* **Backend & DB:** Node.js, Turso (SQLite en el borde), Arquitectura RESTful.
+* **Lenguajes Principales:** TypeScript / JavaScript, Python, C#, C++.
+* **Frontend:** React, Tailwind CSS, Vite.
+* **Backend & APIs:** Node.js, FastAPI, Arquitectura RESTful.
+* **Bases de Datos:** PostgreSQL, SQL Server, MongoDB, Turso (SQLite en el borde), Firebase.
 * **Infraestructura & Flujo de Trabajo:** Vercel, Git/GitHub, integración con modelos LLM locales (Qwen 2.5 Coder) para optimización del ciclo de desarrollo.
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,tailwind,vite,vercel,git,github,sqlite" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=ts,js,py,cs,cpp,react,tailwind,vite,nodejs,fastapi,postgres,mongodb,sqlite,firebase,vercel,git,github" alt="Tech Stack Avanzado" />
   </a>
 </p>
 

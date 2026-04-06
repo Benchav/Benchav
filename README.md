@@ -1,37 +1,37 @@
-# ¡Hola! Soy Joshua 👋
+# Joshua Chávez | Software Engineer
 
-**Desarrollador Full Stack | Estudiante de Ingeniería en Sistemas**
+Estudiante de Ingeniería en Sistemas orientado a la creación de productos de software de extremo a extremo. Me especializo en diseñar arquitecturas escalables, sistemas de gestión empresarial (ERP) e interfaces de usuario de alto rendimiento.
 
-Soy un desarrollador de software apasionado por crear soluciones web y móviles escalables, eficientes y con un diseño impecable. Me especializo en el ecosistema de JavaScript y TypeScript, y disfruto resolviendo problemas complejos, desde la arquitectura de bases de datos hasta la creación de interfaces de usuario interactivas y rápidas.
+Mi enfoque trasciende la simple escritura de código: busco resolver problemas de negocio reales, optimizar procesos operativos y garantizar la calidad técnica en cada etapa del desarrollo y despliegue.
 
-### 👨‍💻 Sobre mí
+### 🚀 Experiencia y Proyectos Arquitectónicos
 
-- 🔭 Actualmente desarrollando **Sistemas ERP a medida** (gestión de inventario, ventas y sucursales) y explorando la creación de paneles de administración para bases de datos modernas como Turso.
-- 🌱 Investigando y aprendiendo sobre la integración de **Modelos de Inteligencia Artificial locales** aplicados al desarrollo, así como mejoras continuas en SEO técnico.
-- 🎓 Estudiante de **Ingeniería en Sistemas** en la UNAN.
-- 💡 Me apasiona optimizar flujos de trabajo en el frontend con React y construir APIs robustas y seguras en el backend con Node.js.
-- 📫 Descubre más de mi trabajo en mi **[Portafolio Web](https://joshuachavez.vercel.app/)** o conecta conmigo en **[LinkedIn](https://linkedin.com/in/joshua-benjamin-ch%C3%A1vez-lau-44a65534b)**.
+* **Sistema ERP Multi-Sucursal (Sector Retail):** Arquitectura y desarrollo completo de un ERP a medida para el control centralizado de inventario, ventas, compras y transferencias entre sucursales. Implementación de control de acceso por roles y reportes en tiempo real.
+  * *Stack:* Node.js, React, Turso DB, Vercel.
+* **Herramientas de Administración de Bases de Datos:** Desarrollo de un panel de control personalizado sobre la API de Turso para la gestión integral de planes de usuarios, límites de almacenamiento y aprovisionamiento de claves API.
+* **Interfaces Altamente Interactivas (Bee-Bot):** Construcción de un simulador web educativo con alta exigencia en manipulación del DOM, soporte responsivo integral y retroalimentación sonora en tiempo real.
+  * *Stack:* Vanilla JavaScript, Tailwind CSS.
+* **Optimización SEO Técnica (Sector Legal):** Reestructuración de arquitectura web, implementación de enrutamiento basado en slugs dinámicos y esquemas de datos estructurados (*LocalBusiness*) para mejorar la indexación y adquisición de clientes.
 
-### 🛠️ Tecnologías y Herramientas
+### 💻 Stack Tecnológico y Herramientas
+
+* **Frontend:** React, TypeScript, Tailwind CSS, Vite.
+* **Backend & DB:** Node.js, Turso (SQLite en el borde), Arquitectura RESTful.
+* **Infraestructura & Flujo de Trabajo:** Vercel, Git/GitHub, integración con modelos LLM locales (Qwen 2.5 Coder) para optimización del ciclo de desarrollo.
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,tailwind,vite,vercel,git,github,html,css" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,tailwind,vite,vercel,git,github,sqlite" alt="Tech Stack" />
   </a>
 </p>
 
-### 📊 Mis Estadísticas de GitHub
+### 📈 Métricas de Desarrollo
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Benchav&show_icons=true&theme=transparent&hide_border=true" alt="Estadísticas de Joshua" />
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benchav&layout=compact&theme=transparent&hide_border=true" alt="Lenguajes más usados" />
-</div>
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Benchav&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)
 
-<br>
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Benchav&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9)
 
 ---
 <div align="center">
-  <i>"Transformando ideas complejas en código limpio y eficiente."</i><br>
-  <b>Visita <a href="https://joshuachavez.vercel.app/">joshuachavez.vercel.app</a> para ver mis proyectos en producción.</b>
+  <b>📍 Nicaragua</b> | 🔗 <b><a href="https://joshuachavez.vercel.app/">Portafolio Web</a></b> | 💼 <b><a href="https://linkedin.com/in/joshua-benjamin-ch%C3%A1vez-lau-44a65534b">LinkedIn</a></b>
 </div>

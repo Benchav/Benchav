@@ -28,9 +28,17 @@ Mi enfoque trasciende la simple escritura de código: busco resolver problemas d
 ### Métricas de Desarrollo
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Benchav&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&v=1" alt="Estadísticas de Joshua" />
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benchav&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&v=1" alt="Lenguajes más usados" />
+  <img src="https://streak-stats.demolab.com/?user=Benchav&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&sideNums=C9D1D9&sideLabels=C9D1D9&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&currStreakNum=C9D1D9" alt="Racha de contribuciones de Joshua Chávez" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
 </div>
 
 ---

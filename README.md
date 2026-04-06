@@ -27,9 +27,11 @@ Mi enfoque trasciende la simple escritura de código: busco resolver problemas d
 
 ### Métricas de Desarrollo
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Benchav&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)
-
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Benchav&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Benchav&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&v=1" alt="Estadísticas de Joshua" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benchav&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&v=1" alt="Lenguajes más usados" />
+</div>
 
 ---
 <div align="center">

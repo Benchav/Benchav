@@ -4,7 +4,7 @@ Estudiante de Ingeniería en Sistemas orientado a la creación de productos de s
 
 Mi enfoque trasciende la simple escritura de código: busco resolver problemas de negocio reales, optimizar procesos operativos y garantizar la calidad técnica en cada etapa del desarrollo y despliegue.
 
-### 🚀 Experiencia y Proyectos Arquitectónicos
+### Experiencia y Proyectos Arquitectónicos
 
 * **Sistema ERP Multi-Sucursal (Sector Retail):** Arquitectura y desarrollo completo de un ERP a medida para el control centralizado de inventario, ventas, compras y transferencias entre sucursales. Implementación de control de acceso por roles y reportes en tiempo real.
   * *Stack:* Node.js, React, Turso DB, Vercel.
@@ -13,7 +13,7 @@ Mi enfoque trasciende la simple escritura de código: busco resolver problemas d
   * *Stack:* Vanilla JavaScript, Tailwind CSS.
 * **Optimización SEO Técnica (Sector Legal):** Reestructuración de arquitectura web, implementación de enrutamiento basado en slugs dinámicos y esquemas de datos estructurados (*LocalBusiness*) para mejorar la indexación y adquisición de clientes.
 
-### 💻 Stack Tecnológico y Herramientas
+###  Stack Tecnológico y Herramientas
 
 * **Frontend:** React, TypeScript, Tailwind CSS, Vite.
 * **Backend & DB:** Node.js, Turso (SQLite en el borde), Arquitectura RESTful.
@@ -25,7 +25,7 @@ Mi enfoque trasciende la simple escritura de código: busco resolver problemas d
   </a>
 </p>
 
-### 📈 Métricas de Desarrollo
+### Métricas de Desarrollo
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Benchav&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)
 

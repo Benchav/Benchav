@@ -19,7 +19,7 @@ Mi enfoque trasciende la simple escritura de código: busco resolver problemas d
 * **Frontend:** React, Tailwind CSS, Vite.
 * **Backend & APIs:** Node.js, FastAPI, Arquitectura RESTful.
 * **Bases de Datos:** PostgreSQL, SQL Server, MongoDB, Turso (SQLite en el borde), Firebase.
-* **Infraestructura & Flujo de Trabajo:** Vercel, Git/GitHub, integración con modelos LLM locales (Qwen 2.5 Coder) para optimización del ciclo de desarrollo.
+* **Infraestructura & Flujo de Trabajo:** Vercel, Git/GitHub
 
 <p align="left">
   <a href="https://skillicons.dev">

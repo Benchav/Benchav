@@ -43,5 +43,5 @@ Mi enfoque trasciende la simple escritura de código: busco resolver problemas d
 
 ---
 <div align="center">
-  <b>📍 Nicaragua</b> | 🔗 <b><a href="https://joshuachavez.vercel.app/">Portafolio Web</a></b> | 💼 <b><a href="https://linkedin.com/in/joshua-benjamin-ch%C3%A1vez-lau-44a65534b">LinkedIn</a></b>
+  <b>📍 Nicaragua</b> | 🔗 <b><a href="https://joshuachavez.vercel.app/">Portafolio Web</a></b> | 💼 <b><a href="https://www.linkedin.com/in/joshua-ch%C3%A1vez-lau-44a65534b/">LinkedIn</a></b>
 </div>

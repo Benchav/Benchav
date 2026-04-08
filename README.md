@@ -9,8 +9,6 @@ Mi enfoque trasciende la simple escritura de código: busco resolver problemas d
 * **Sistema ERP Multi-Sucursal (Sector Retail):** Arquitectura y desarrollo completo de un ERP a medida para el control centralizado de inventario, ventas, compras y transferencias entre sucursales. Implementación de control de acceso por roles y reportes en tiempo real.
   * *Stack:* Node.js, React, Turso DB, Vercel.
 * **Herramientas de Administración de Bases de Datos:** Desarrollo de un panel de control personalizado sobre la API de Turso para la gestión integral de planes de usuarios, límites de almacenamiento y aprovisionamiento de claves API.
-* **Interfaces Altamente Interactivas (Bee-Bot):** Construcción de un simulador web educativo con alta exigencia en manipulación del DOM, soporte responsivo integral y retroalimentación sonora en tiempo real.
-  * *Stack:* Vanilla JavaScript, Tailwind CSS.
 * **Optimización SEO Técnica (Sector Legal):** Reestructuración de arquitectura web, implementación de enrutamiento basado en slugs dinámicos y esquemas de datos estructurados (*LocalBusiness*) para mejorar la indexación y adquisición de clientes.
 
 ###  Stack Tecnológico y Herramientas

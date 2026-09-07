@@ -1,6 +1,6 @@
 # Joshua Chávez | developer
 
-Estudiante de Ingeniería en Sistemas orientado a la creación de productos de software de extremo a extremo. Me especializo en diseñar arquitecturas escalables, sistemas de gestión empresarial (ERP) e interfaces de usuario de alto rendimiento.
+Ingeniero en Sistemas orientado a la creación de productos de software de extremo a extremo. Me especializo en diseñar arquitecturas escalables, sistemas de gestión empresarial (ERP) e interfaces de usuario de alto rendimiento.
 
 Mi enfoque trasciende la simple escritura de código: busco resolver problemas de negocio reales, optimizar procesos operativos y garantizar la calidad técnica en cada etapa del desarrollo y despliegue.
 

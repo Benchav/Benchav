@@ -13,50 +13,69 @@ Mi enfoque trasciende la simple escritura de código: busco resolver problemas d
 
 ## Proyectos Destacados
 
-Casos seleccionados por su impacto funcional, integración de IA y puesta en producción.
+Casos seleccionados por su impacto funcional, integración de IA y uso en producción.
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://agrosystem.nicapages.site/">
-        <img src="./assets/projects/agrosystem.webp" alt="Vista de AgroSystem, plataforma de agricultura inteligente" width="100%" />
-      </a>
-      <h3>AgroSystem · Agricultura inteligente</h3>
-      <p>Integra monitoreo IoT de parcelas, análisis de imágenes con Gemini 2.5 para sugerir posibles enfermedades y un chatbot Llama 3.3 para consultas sobre cultivos y parcelas. Las sugerencias visuales son orientativas.</p>
-      <p><strong>Tecnologías:</strong> IoT · Gemini 2.5 · Llama 3.3</p>
-      <p><a href="https://agrosystem.nicapages.site/">Demo</a> · <a href="https://github.com/Benchav/AgroControlsystem">Código</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://joshuachavez.vercel.app/#projects">
-        <img src="./assets/projects/joshfit-preview.webp" alt="Vista de JoshFit, aplicación de entrenamiento" width="100%" />
-      </a>
-      <h3>JoshFit · Entrenamiento con IA</h3>
-      <p>Reconoce alimentos en fotos y estima sus calorías con Gemini 2.5. Incluye un entrenador conversacional con Llama 3.3 30B que propone sugerencias y rutinas; las estimaciones son aproximadas.</p>
-      <p><strong>Tecnologías:</strong> Gemini 2.5 · Llama 3.3 30B · Visión por IA</p>
-      <p><a href="https://joshuachavez.vercel.app/#projects">Ficha en mi portafolio</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://mibohiosa.com/">
-        <img src="./assets/projects/mibohiosa.webp" alt="Página principal del sitio web del Hotel Mi Bohío" width="100%" />
-      </a>
-      <h3>Hotel Mi Bohío · Web y reservaciones</h3>
-      <p>Sitio web para un hotel boutique con catálogo de servicios y flujo de reservaciones, diseñado para presentar su oferta y facilitar el contacto con clientes.</p>
-      <p><strong>Tecnologías:</strong> React · Vite · PHP 8</p>
-      <p><a href="https://mibohiosa.com/">Sitio en producción</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://avicon.nicapages.site/">
-        <img src="./assets/projects/avicon.jpg" alt="Panel de control del sistema avícola Avicon" width="100%" />
-      </a>
-      <h3>Avicon System · Gestión avícola</h3>
-      <p>Panel de control para el seguimiento de lotes, salud de las aves, mortalidad y producción, con indicadores y reportes para apoyar la operación diaria.</p>
-      <p><strong>Tecnologías:</strong> TypeScript · Node.js · SQL</p>
-      <p><a href="https://avicon.nicapages.site/">Demo</a></p>
-    </td>
-  </tr>
-</table>
+### 01 · AgroSystem — Agricultura inteligente
+
+<p align="center">
+  <a href="https://agrosystem.nicapages.site/">
+    <img src="./assets/projects/agrosystem.webp" alt="AgroSystem: monitoreo inteligente de parcelas y cultivos" width="100%" />
+  </a>
+</p>
+
+Integra monitoreo IoT de parcelas, análisis de imágenes con Gemini 2.5 para sugerir posibles enfermedades y un chatbot Llama 3.3 para consultas sobre cultivos. Las sugerencias visuales son orientativas.
+
+**Tecnologías:** `IoT` · `Gemini 2.5` · `Llama 3.3`
+
+[![Demo en vivo](https://img.shields.io/badge/DEMO-0A7B53?style=for-the-badge)](https://agrosystem.nicapages.site/) [![Código fuente](https://img.shields.io/badge/C%C3%93DIGO-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Benchav/AgroControlsystem)
+
+<hr />
+
+### 02 · JoshFit — Entrenamiento con IA
+
+<p align="center">
+  <a href="https://joshuachavez.vercel.app/#projects">
+    <img src="./assets/projects/joshfit-preview.webp" alt="JoshFit: interfaz de la aplicación de entrenamiento" width="100%" />
+  </a>
+</p>
+
+Reconoce alimentos en fotos y estima sus calorías con Gemini 2.5. Llama 3.3 30B ofrece sugerencias y rutinas como entrenador conversacional; las estimaciones nutricionales son aproximadas.
+
+**Tecnologías:** `Gemini 2.5` · `Llama 3.3 30B` · `Visión por IA`
+
+[![Ver ficha del proyecto](https://img.shields.io/badge/VER_PROYECTO-2563EB?style=for-the-badge)](https://joshuachavez.vercel.app/#projects)
+
+<hr />
+
+### 03 · Hotel Mi Bohío — Web y reservaciones
+
+<p align="center">
+  <a href="https://mibohiosa.com/">
+    <img src="./assets/projects/mibohiosa.webp" alt="Sitio web del Hotel Mi Bohío" width="100%" />
+  </a>
+</p>
+
+Sitio web para un hotel boutique con catálogo de servicios y flujo de reservaciones, diseñado para presentar su oferta y facilitar el contacto con clientes.
+
+**Tecnologías:** `React` · `Vite` · `PHP 8`
+
+[![Sitio en producción](https://img.shields.io/badge/SITIO_EN_PRODUCCI%C3%93N-0A7B53?style=for-the-badge)](https://mibohiosa.com/)
+
+<hr />
+
+### 04 · Avicon System — Gestión avícola
+
+<p align="center">
+  <a href="https://avicon.nicapages.site/">
+    <img src="./assets/projects/avicon.jpg" alt="Panel de control del sistema avícola Avicon" width="100%" />
+  </a>
+</p>
+
+Panel de control para el seguimiento de lotes, salud de las aves, mortalidad y producción, con indicadores y reportes para apoyar la operación diaria.
+
+**Tecnologías:** `TypeScript` · `Node.js` · `SQL`
+
+[![Demo en vivo](https://img.shields.io/badge/DEMO-0A7B53?style=for-the-badge)](https://avicon.nicapages.site/)
 
 ###  Stack Tecnológico y Herramientas
 
